@@ -1,0 +1,51 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\Debug/yilmaz_side-cenan_kagan-lab1_doubleclick.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>yilmaz_side-cenan_kagan-lab1_doubleclick.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>yilmaz_side-cenan_kagan-lab1_doubleclick.map</FILE>
+  <FILE>yilmaz_side-cenan_kagan-lab1_doubleclick.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>34</LINE></RESET>
+  <OK><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>62</LINE></OK>
+  <LOOP><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>44</LINE></LOOP>
+  <DO><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>48</LINE></DO>
+  <CONT><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>54</LINE></CONT>
+  <INTER><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>103</LINE></INTER>
+  <CASE_0><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>82</LINE></CASE_0>
+  <CASE_1><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>90</LINE></CASE_1>
+  <CASE_2><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>94</LINE></CASE_2>
+  <CASE_3><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>98</LINE></CASE_3>
+  <delay><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>108</LINE></delay>
+  <LR><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>144</LINE></LR>
+  <CLICKDELAY><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>169</LINE></CLICKDELAY>
+  <C1><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>114</LINE></C1>
+  <DELAYPART><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>121</LINE></DELAYPART>
+  <C2><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>119</LINE></C2>
+  <L1><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>122</LINE></L1>
+  <L2><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>123</LINE></L2>
+  <L3><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>124</LINE></L3>
+  <LEFT><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>148</LINE></LEFT>
+  <RIGHT><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>158</LINE></RIGHT>
+  <L1C><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>171</LINE></L1C>
+  <L2C><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>172</LINE></L2C>
+  <L3C><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>173</LINE></L3C>
+  <XX><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>179</LINE></XX>
+  <YY><FILE>C:\Users\CIT\Desktop\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick\yilmaz_side-cenan_kagan-lab1_doubleclick.asm</FILE><LINE>181</LINE></YY>
+ </LABELS>
+</ASSEMBLER_INFO>

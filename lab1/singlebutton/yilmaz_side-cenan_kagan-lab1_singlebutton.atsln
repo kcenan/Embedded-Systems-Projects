@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "yilmaz_side-cenan_kagan-lab1_singlebutton", "yilmaz_side-cenan_kagan-lab1_singlebutton\yilmaz_side-cenan_kagan-lab1_singlebutton.asmproj", "{6AA5F378-430F-4238-B5C7-C6BABB9C9060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA5F378-430F-4238-B5C7-C6BABB9C9060}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6AA5F378-430F-4238-B5C7-C6BABB9C9060}.Debug|AVR.Build.0 = Debug|AVR
+		{6AA5F378-430F-4238-B5C7-C6BABB9C9060}.Release|AVR.ActiveCfg = Release|AVR
+		{6AA5F378-430F-4238-B5C7-C6BABB9C9060}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
